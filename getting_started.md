@@ -43,6 +43,7 @@ Edit mode is created for content editors who deal with the integration of the mo
 Layout mode offers the ability to create rows and panes where modules can be added; you can also add modules here, so you're not strictly dependent on Edit mode to do this, and from Layout mode you can also control the Menu and the Header options. 
 <br />
 <br />
-Design mode offers the possibility to customize the whole page by accessing the Edit page button - here, besides playing with colors, video, images, border sizes, you can also set Less styles in a certain format (e.g. background-color: red;) and you can also directly upload .css and/or .js files. There are also the Edit Row options which will let you customized each row if you need an interactive design. 
-
-Pin button - the last option in line, has the purpose of rearranging the Admin Control bar to the right side of the page - the buttons will change to icons and whenever in doubt you can mouse over them to see what you have to click in order to access the mode you need. 
+Design mode offers the possibility to customize the whole page by accessing the Edit page button. Besides playing with colors, video, images, or border sizes, you can also set less styles in a certain format (e.g. background-color: red;) and you can also directly upload .css and/or .js files. The Edit Row options will let you customize each row if you need an interactive design. 
+<br />
+<br />
+Pin button, the last option in line, has the purpose of rearranging the Admin Control bar to the right side of the page. The buttons will change to icons and when in doubt you can mouse over them to see what you have to click in order to access the mode you need. 
