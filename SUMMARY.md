@@ -8,5 +8,5 @@
 * [Admin Controls](admin_controls.md)
 * [Design Mode](design_mode.md)
 * [Edit Mode](edit_mode.md)
-* Layout Mode
+* [Layout Mode](layout_mode.md)
 
