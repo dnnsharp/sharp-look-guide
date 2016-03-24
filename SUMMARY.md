@@ -4,5 +4,5 @@
 * [FAQ](FAQ.md)
 * [Getting Started](getting_started.md)
 * [Installation](installation.md)
-* Add Module Screen
+* [Add Module Screen](add_module_screen.md)
 
