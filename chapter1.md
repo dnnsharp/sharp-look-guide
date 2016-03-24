@@ -18,4 +18,4 @@ _.each($('.slk-login-register'), function(x){$(x).find('a:nth-child(2)').attr('h
 
 });
 
-and upload it in Design Mode. Replace /login_link si /register_link with your desired links.
+and upload it in Design Mode. Replace /login_link and /register_link with your desired links.
