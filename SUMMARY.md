@@ -2,5 +2,4 @@
 
 * [Introduction](README.md)
 * [Getting Started](getting_started.md)
-* [FAQ](faq.md)
 
