@@ -19,12 +19,13 @@ To do this, just create a link to the same page and append the the ID of the row
 In a JS file add the following code:
 
 
-```$(function(){
+$(function(){
 
 _.each($('.slk-login-register'), function(x){$(x).find('a:first').attr('href', '/login_link')});
 
 _.each($('.slk-login-register'), function(x){$(x).find('a:nth-child(2)').attr('href', '/register_link')});
 
-});```
+});
+
 
 and upload it in Design Mode. Replace /login_link and /register_link with your desired links.
