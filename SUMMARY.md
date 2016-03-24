@@ -6,7 +6,6 @@
 * [Installation](installation.md)
 * [Add Module Screen](add_module_screen.md)
 * [Admin Controls](admin_controls.md)
-* [Edit Mode](edit_mode.md)
 * [Layout Mode](layout_mode.md)
 * [View Mode](view_mode.md)
 
