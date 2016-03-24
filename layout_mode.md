@@ -23,3 +23,9 @@ The Full page width option, once checked, enlarges the rows from one side to ano
 This view allows the users to quickly view and change the location of the modules from the page, like it was said before, it is also helpful when a module must be removed or moved but the module action menu cannot be accessed when the content is displayed. Talking about splitting the panes on the page, a row comes with one default pane which can be deleted or modified whenever it's the case. As a maximum limitation of how many panes you can have into one row, there's a limit of 12 panes, SharpLook uses the standard 12 column layout grid from Bootstrap. An interesting feature is the "Increase Size Left/Right" arrow which is very useful for arranging into the page the layout of the panes. 
 
 ![](rows.png)
+
+Beware that in any Admin Mode screen, if you don't save the changes made before you navigate to another page, a pop up will be displayed informing you that the changes you've made are unsaved and it gives you two options "Leave this Page" and "Stay on this Page". 
+
+Layout mode does not load the content of the modules added on the page, therefore in case there are errors on the modules they will not get displayed in Layout mode and as a tip, this mode is very useful when you want to access module settings or to remove them in case they are not displayed in edit mode. 
+
+Layout along with Design settings can be saved as themes per Portal/Host. 
