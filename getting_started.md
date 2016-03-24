@@ -30,19 +30,3 @@ Layout mode which gives the ability to create rows and panes where the modules w
 Design mode offers the possibility to customize the whole page by accessing the Edit page button - here, besides playing with colors, video, images, border sizes, you can also set Less styles in a certain format (e.g. background-color: red;) and you can also directly upload .css and/or .js files. There are also the Edit Row options which will let you customized each row if you need an interactive design. 
 
 Pin button - the last option in line, has the purpose of rearranging the Admin Control bar to the right side of the page - the buttons will change to icons and whenever in doubt you can mouse over them to see what you have to click in order to access the mode you need. 
-
-Exercise:
-
-1. Create a page and set it to Sharp Look skin > chose the Blank template;
-
-2. Access Layout mode and split the default row into two panes - increase the size of the Content Pane to the right by clicking on the arrow displayed in the right corner;
-
-3. While you're still in Layout mode, check the Display Header box and the Enable Menu and Enable Registration Controls options > save;
-
-4. Go to Edit mode and on first pane, the left one add an HTML module - add content in it and on the right pane, the second one add an ActionForm module with, let's say three text boxes and one submit button;
-
-5. Now access Design mode and let's set a background image on row 1 and a color on header > save the modifications and see the final result by accessing the View mode.
-
-6. Let's also put a phone number on the page by opening Control Panel page (click on the cogwheel icon button - the first button from the Admin Control buttons) > click on Page Settings icon > click on Social in order to enlarge the social options list > set a phone number in the last textbox > and click on Update page button
-
-7. If you decide to use the customized page as a template or theme you can use the Create Theme button which will be displayed at any modification you'll make on Layout, Edit and Design page or the Export page button from Control Panel. The themes and templates are useful if you want to use the design and content between the pages of a website. 
