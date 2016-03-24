@@ -7,4 +7,5 @@
 * [Add Module Screen](add_module_screen.md)
 * [Admin Controls](admin_controls.md)
 * [Design Mode](design_mode.md)
+* Edit Mode
 
