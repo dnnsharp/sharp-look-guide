@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Getting Started](getting_started.md)
 * [FAQ](FAQ.md)
+* [Getting Started](getting_started.md)
 
