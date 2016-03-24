@@ -11,4 +11,5 @@
 * [Custom Page Settings](custom_page_settings.md)
 * [Feature Search](feature_search.md)
 * [Module Management](module_management.md)
+* Page Management
 
