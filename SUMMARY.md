@@ -5,5 +5,5 @@
 * [Getting Started](getting_started.md)
 * [Installation](installation.md)
 * [Add Module Screen](add_module_screen.md)
-* Admin Controls
+* [Admin Controls](admin_controls.md)
 
