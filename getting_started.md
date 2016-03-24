@@ -5,15 +5,22 @@
 To sum up, Sharp Look is a CMS framework that redefines how sites are created and managed by replacing the DNN administration controls with a touch-friendly interface. It gives you the possibility to edit the design of your web pages, besides other options like View, Edit, and Layout. 
 <br />
 <br />
-Sharp Look lets you control your portal’s styling; it changes the entire DNN interface by integrating as a skin, you can set it for a page or for the entire site, so basically, we say that Sharp Look is an engine. The purpose of Sharp Look is to get rid of as much UI as possible - we've build a DNN light distribution using this SharpLook engine on top of DNN, so basically we've refactored DNN a little to be able to get rid of all the UI. 
-
-How to work with Sharp Look
-
-
-There are two basic ways to integrate Sharp Look on your site, you can set your site with Sharp Look skin from Admin > Site Settings or from Host > Site Settings or you can use Sharp Look as skin per page. 
-How to create a customized page with Sharp Look
-
-First begin with the same steps you follow when you want to create a page: access Pages option from menu and click on Add new page, fill in all the fields which you consider you need and, the most important step in achieving our goal of creating a skinned page in Sharp Look, access Advanced Settings option and set Host: SharpLook option on both Appearance options - on Page Skin and on Page Container and finally, click on Add page button. Instead of a white canvas, all the existing page templates will be displayed and you'll have to choose one of them which you want to be used - you can select the Blank option if you need to get started from a white canvas, or some other templates which come with the Sharp Look package installation, you'll recognize them after their name which contains "SharpLook" in the title:
+Sharp Look lets you control your portal’s styling; it changes the entire DNN interface by integrating as a skin and you can set it for a page or for the entire site. Basically, we can say that Sharp Look is an engine. The purpose of this module is to get rid of as much UI as possible - we've built a DNN light distribution using this engine on top of DNN; in other words, we've refactored DNN a little to be able to get rid of the entire UI. 
+<br />
+<br />
+**How to work with Sharp Look**
+<br />
+<br />
+There are two basic ways to integrate Sharp Look on your site: you can set your site with Sharp Look skin from Admin > Site Settings or from Host > Site Settings, or you can use Sharp Look as skin per page.
+<br />
+<br />
+**How to create a customized page with Sharp Look**
+<br />
+<br />
+Access the Pages option from menu, click on Add New Page, fill in all the required fields, access Advanced Settings and set Host: SharpLook on both Appearance options - on Page Skin and on Page Container - and finally, click on the Add page button. 
+<br />
+<br />
+Instead of a white canvas, all the existing page templates will be displayed and you'll have to choose the one you prefer. You can select the Blank option if you need to get started with a white canvas, or some other templates that come with the Sharp Look.
 
 ![](choose.template.png)
 
