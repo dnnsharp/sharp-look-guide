@@ -34,12 +34,15 @@ The cogwheel icon button enables the Control Panel page where the available feat
 <br />
 ![](control.panel.png)
 
-View mode button which is destined for the end-users, in View mode, the page displays the final page after it was designed and edited according to the specifications.
-
-Edit mode which is created for content editors who'll deal with the integration of the module per page and their customization (here all the module's settings options get displayed when you click on the + icon: Manage module, Settings of the module, Export/Import options, Help, Refresh and also Remove).
-
-Layout mode which gives the ability to create rows and panes where the modules will be added into, you can also add modules here, so you're not strictly dependent on Edit mode to do this, and from Layout mode you can also control the Menu and the Header options. 
-
+The View button is destined for end-users; in View mode, the final version of the page, after it was designed and edited according to the specifications, is displayed.
+<br />
+<br />
+Edit mode is created for content editors who deal with the integration of the modules per page and their customization. Clicking on the + icon reveals all the modules' settings: Manage module, Module settings, Export/Import options, Help, Refresh, and Remove.
+<br />
+<br />
+Layout mode offers the ability to create rows and panes where modules can be added; you can also add modules here, so you're not strictly dependent on Edit mode to do this, and from Layout mode you can also control the Menu and the Header options. 
+<br />
+<br />
 Design mode offers the possibility to customize the whole page by accessing the Edit page button - here, besides playing with colors, video, images, border sizes, you can also set Less styles in a certain format (e.g. background-color: red;) and you can also directly upload .css and/or .js files. There are also the Edit Row options which will let you customized each row if you need an interactive design. 
 
 Pin button - the last option in line, has the purpose of rearranging the Admin Control bar to the right side of the page - the buttons will change to icons and whenever in doubt you can mouse over them to see what you have to click in order to access the mode you need. 
