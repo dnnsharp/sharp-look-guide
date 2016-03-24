@@ -6,5 +6,5 @@
 * [Installation](installation.md)
 * [Add Module Screen](add_module_screen.md)
 * [Admin Controls (Design, Edit, Layout, View)](admin_controls.md)
-* Compatibility with other modules
+* [Compatibility with other modules](compatibility_with_other_modules.md)
 
