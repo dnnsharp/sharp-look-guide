@@ -4,7 +4,7 @@ This is a list of DnnSharp modules that have been tested and are compatible with
 Please report if you find any compatibility issues.
 
 Action Form
-Acvtion Grid
+Action Grid
 TabsPro
 Search Boost
 URL Adapter
