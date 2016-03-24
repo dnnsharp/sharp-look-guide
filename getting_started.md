@@ -33,7 +33,8 @@ The cogwheel icon button enables the Control Panel page where the available feat
 <br />
 <br />
 ![](control.panel.png)
-
+<br />
+<br />
 The View button is destined for end-users; in View mode, the final version of the page, after it was designed and edited according to the specifications, is displayed.
 <br />
 <br />
