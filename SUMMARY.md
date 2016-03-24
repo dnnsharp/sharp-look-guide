@@ -10,4 +10,5 @@
 * [Control Panel](control_panel.md)
 * [Custom Page Settings](custom_page_settings.md)
 * [Feature Search](feature_search.md)
+* Module Management
 
