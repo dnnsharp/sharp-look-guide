@@ -9,5 +9,5 @@
 * [Design Mode](design_mode.md)
 * [Edit Mode](edit_mode.md)
 * [Layout Mode](layout_mode.md)
-* View Mode
+* [View Mode](view_mode.md)
 
