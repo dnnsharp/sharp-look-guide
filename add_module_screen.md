@@ -11,4 +11,4 @@ This page is a shared page between Edit Mode and Layout Mode, like all the other
 
 This panel will open whenever the Add module button is clicked, either from Edit mode or from Layout mode. All the modules installed on the instance and all the modules which come with DNN will be displayed here. When a module is selected in order to be added on the page, the page loading process will not take place, the module is automatically added when is selected. If you change your mind and you want to get back to the page you came from without adding any module, you have the back arrow displayed on the left corner of the page which will redirect you to the Edit or Layout page, depending on the mode you've previously accessed.
 
-![](Settings.png)
+![](modules.png)
