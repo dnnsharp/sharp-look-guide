@@ -7,14 +7,12 @@ If you need to customize the menu in Sharp Look without affecting other portals 
 ```.navbar-collapse{position:relative;left:-100px;}```.
 
 
-
 **How to set up a link which, when clicked, will scroll down to the next row**
 
 To do this, just create a link to the same page and append the the ID of the row as URL fragment. For example, ```/mypage.aspx#dnn_slkRow24```.
 
 
 **How to customize the Login and Registration pages**
-
 
 In a JS file add the following code:
 
