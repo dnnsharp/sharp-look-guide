@@ -21,13 +21,17 @@ Access the Pages option from menu, click on Add New Page, fill in all the requir
 <br />
 <br />
 Instead of a white canvas, all the existing page templates will be displayed and you'll have to choose the one you prefer. You can select the Blank option if you need to get started with a white canvas, or some other templates that come with the Sharp Look.
+<br />
+<br />
 
 ![](choose.template.png)
 
-Once the template is selected, you'll get redirected in just fractions of a second to the created page which will be displayed according to the selected template and the Admin Control bar will be available and will provide the necessary options to go further in customizing the page - the options available are as follows:
-
-the cogwheel icon button which enables the Control Panel page where there are displayed the available features per page/per portal/per host and an advanced Feature Search box which is useful to navigate between options, along with Clear Cache and Recycle application domain buttons.
-
+Once the template is selected, you'll get redirected to the newly-created page. You can use the Admin Control bar to further customize the page.
+<br />
+<br />
+The cogwheel icon button enables the Control Panel page where the available features per page/portal/host are displayed, along with an advanced Feature Search box useful to navigate between options and Clear Cache & Recycle application domain buttons.
+<br />
+<br />
 ![](control.panel.png)
 
 View mode button which is destined for the end-users, in View mode, the page displays the final page after it was designed and edited according to the specifications.
