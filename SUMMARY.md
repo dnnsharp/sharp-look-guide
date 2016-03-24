@@ -8,4 +8,5 @@
 * [Admin Controls (Design, Edit, Layout, View)](admin_controls.md)
 * [Compatibility with other modules](compatibility_with_other_modules.md)
 * [Control Panel](control_panel.md)
+* Custom Page Settings
 
