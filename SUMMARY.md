@@ -12,5 +12,5 @@
 * [Feature Search](feature_search.md)
 * [Module Management](module_management.md)
 * [Page Management](page_management.md)
-* Themes
+* [Themes](themes.md)
 
