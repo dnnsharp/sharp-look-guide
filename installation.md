@@ -3,9 +3,10 @@
 **How to install Sharp Look**
 
 Sharp Look can be downloaded from our download page, and since you access this page, you can also check the change log to get in touch with all the new and improved features of this module.
-
-In order to install Sharp Look on your DNN website you have to follow the same steps with which you got familiar until now, and which are listed bellow - just to be sure nothing will be skipped:
-
+<br />
+<br />
+In order to install Sharp Look on your DNN website you have to follow the same steps with which you got familiar until now, and which are listed bellow - just to be sure nothing is skipped:
+<br />
 * Log into your DNN site as Administrator;
 
 * Select Extensions option from Host menu;
@@ -46,7 +47,8 @@ After you create a page with Sharp Look you have the possibility to add modules 
 <br />
 <br />
 When you add Sharp Look as page skin for the first time, you are prompted to enter your Invoice Number or License Key in order to activate the module. 
-
+<br />
+<br />
 ![](Activate License.png)
 <br />
 <br />
