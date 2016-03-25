@@ -54,10 +54,12 @@ When you add Sharp Look as page skin for the first time, you are prompted to ent
 <br />
 <br />
 ![](Activate Trial.png)
-
+<br />
+<br />
 **How to remove Sharp Look **
-
-In order to remove Sharp Look from your DNN instance, first, you have to make sure you've removed all the Sharp Look skins and containers from all the pages and then access Host > Extensions > Skins and you'll see that the remove button is displayed besides the edit button. 
-
-![](remove.module.png)
-
+<br />
+<br />
+To uninstall Sharp Look from your DNN instance you first have to remove the skin from every page it's used on and then access Host > Extensions > Themes. Do note that the delete button is not available if Sharp Look is in use.
+<br />
+<br />
+![](Themes.png)
