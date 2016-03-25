@@ -39,28 +39,21 @@ To set the skin of the site to Sharp Look you have to access Admin > Site Settin
 **Adding a module and editing a Sharp Look page**
 <br />
 <br />
-After you create a page with Sharp Look you have the possibility to add modules on the page either in Edit mode or in Layout mode. In Edit mode you'll have the other modules' options like module settings, export, import options, and on Layout mode you'll have only the remove module option. By clicking on the Add module button, a panel with all the installed modules will be displayed from where you can choose the ones you need to use on the page. 
+After you create a page with Sharp Look you have the possibility to add modules on the page either in Edit mode or in Layout mode. In Edit mode you have access to other modules' options like module settings, export, import options, and in Layout mode there is only the remove module option. By clicking on the Add module button, a panel with all the installed modules is displayed from where you can choose the ones you need to use on the page. 
 <br />
 <br />
 **Activate License/Trial**
 <br />
 <br />
-Sharp Look comes with two types of packages, on one hand there's the simple package which contains only the SharpLook build, on the other hand, there's the Sharp Look Lead Pages package which comes with Sharp Look build and Action Form. The last package has a version of Action Form which will be activated at the same time with the activation of Sharp Look.
-<br />
-<br />
-Regarding the licensing, with the release of Sharp Look we've implemented a new licensing UI and functionality, basically, whenever you install SharpLook on the site and set it as skin per site or per page you'll be asked to activate the module, these steps are the same as for other modules, but the activation page will look different in terms of UI and both activation options will be available.
-<br />
-<br />
-The Activate license option allows to activate the product with the Invoice number and with a Key which can be downloaded from the DNN Store product downloads and then upload the .xml file in the Key File box. Another important feature is that once you set the Host on which you want to activate the license, then automatically your license will be activated and will cover all the localized domains, for example, if I have a site like site.com with localized domains like site.fr; site.co.uk, then, once the license of Sharp Look module is activated on site.com domain, then all the other localized domains will have the module activated (we aim to also implement this feature for all our modules).  
-<br />
-<br />
-The important thing to know is that when you install Sharp Look Lead Pages package, then, the activation of the Sharp Look's license will trigger the activation of the license of Action Form and in bin folder there will be one license file, DnnSharp.lic which will contain the activation key for both modules.
+When you add Sharp Look as page skin for the first time, you are prompted to enter your Invoice Number or License Key in order to activate the module. 
 
-![](license.png)
-
-**Activate 30 days Trial** basically works with the username and password of your dnnnsharp.com account, and the Host option will work the same as the one from License activation section, whenever there are localized domains, once the trial is activated for one domain, on all the other localized domains Sharp Look module will be activated. This options is also available for the Sharp Look Lead Pages package. 
-
-![](trial.png)
+![](Activate License.png)
+<br />
+<br />
+**The 30-day trial** is unlocked using your dnnsharp.com account.
+<br />
+<br />
+![](Activate Trial.png)
 
 **How to remove Sharp Look **
 
