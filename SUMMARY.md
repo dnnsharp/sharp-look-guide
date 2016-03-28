@@ -13,8 +13,8 @@
 * [Module Management](module_management.md)
 * [Page Management](page_management.md)
 * [Themes](themes.md)
+* View Mode
 * [Design Mode](design_mode.md)
 * Edit Mode
 * Layout Mode
-* View Mode
 
