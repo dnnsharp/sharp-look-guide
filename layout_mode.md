@@ -16,7 +16,7 @@
 Everything is saved at the end when then Save button is clicked and a warning message is displayed if you attempt to leave the page without saving the changes. 
 <br />
 <br />
-The Layout mode displays the layout of the skin that is applied to the page and shows the location of modules on the page, the title and the modules actions menu of each module is shown and you can also find here the Add Module button, so if you arrive on the Layout page and you change your mind regarding what you've previously added on the Edit page, here you can modify, either by adding other modules or by removing the previously added ones. You can also split the page into more than one row, it's very useful for when you want to display, let's say, two grids on the page one next to another to compare the data. 
+The Layout mode displays the layout of the skin that is applied to the page and shows where the modules are positioned on the page. The title and the modules actions menu of each module is shown and you can also find here the Add Module button, so if you arrive on the Layout page and you change your mind regarding what you've previously added on the Edit page, here you can modify, either by adding other modules or by removing the previously added ones. You can also split the page into more than one row, it's very useful for when you want to display, let's say, two grids on the page one next to another to compare the data. 
 
 
 ### Display Header
