@@ -16,4 +16,5 @@
 * [Design Mode](design_mode.md)
 * Edit Mode
 * Layout Mode
+* View Mode
 
