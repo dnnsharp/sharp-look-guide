@@ -14,4 +14,5 @@
 * [Page Management](page_management.md)
 * [Themes](themes.md)
 * [Design Mode](design_mode.md)
+* Edit Mode
 
