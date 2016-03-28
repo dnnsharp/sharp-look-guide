@@ -24,3 +24,9 @@ This panel opens whenever the Add module button is clicked, either from Edit mod
 <br />
 <br />
 ![](modules.png)
+<br />
+<br />
+With the release of Sharp Look 1.1 an Add Existing Module option is also available.
+<br />
+<br />
+![](add existing module.png)
