@@ -2,14 +2,11 @@ What is Sharp Look?
 <br />
 <br />
 Sharp Look is not just a DNN theme, it is a powerful DNN theme framework, a total design suite with infinite customization possibilities. Regardless of whether you’re a novice or advanced developer, Sharp Look empowers you to quickly and easily build stunning DNN portals, providing a foundation that takes DNN to places you never thought it could go.
-<br />
-<br />
+
 Why Sharp Look?
-<br />
-<br />
+
 **Upgraded CMS Experience**
-<br />
-<br />
+
 Sharp Look’s state-of-the-art technologies give you the joy of editing your design with simple yet powerful tools in the new mode for designers (besides the traditional View, Edit, and Layout). You can create a new look every time you get bored of your existing design - in a single night.
 
 **Be Competitive**
@@ -34,9 +31,7 @@ We at DNN Sharp take support to a whole new level. Seriously, go ahead and check
 * Simplified form for common tasks
 * Extension points 
 * Support
-<br />
-<br />
+
 Please note that Sharp Look requires DNN 6.0+ and .NET 4.0+ to work properly.
-<br />
-<br />
+
 Our support staff is friendly and always available to help you. Engage us on [Sharp Look community platform](http://www.dnnsharp.com/support#opturl=%2Fsharp-look).
