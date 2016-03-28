@@ -6,9 +6,9 @@
 
 * shows module actions and highlights panes
 
-* touch friendly module actions
+* touch-friendly module actions
 
-* touch friendly add module screen
+* touch-friendly add module screen
 <br />
 <br />
 The Edit mode is suitable for content editors; once you decide what to integrate on the page and the modules are customized and saved, you'll be able to proceed further with the Design or with the View option in order to see the final front product. The Edit mode displays all module editing tools available to the current user.
