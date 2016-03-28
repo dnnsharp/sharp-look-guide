@@ -34,5 +34,9 @@ We at DNN Sharp take support to a whole new level. Seriously, go ahead and check
 * Simplified form for common tasks
 * Extension points 
 * Support
-
+<br />
+<br />
+Please note that Sharp Look requires DNN 6.0+ and .NET 4.0+ to work properly.
+<br />
+<br />
 Our support staff is friendly and always available to help you. Engage us on [Sharp Look community platform](http://www.dnnsharp.com/support#opturl=%2Fsharp-look).
