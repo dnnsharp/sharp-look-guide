@@ -1,11 +1,16 @@
 # Layout Mode
+### Summary
 
-Summary
-optimized for website owner
-configure header (menu, search box, social buttons, registration controls, language selector)
-define rows, a row can receive special design and hold up to 12 panes
-resize panes
-manage modules (add, delete, reorder) without reloading the page
+* optimized for website owner
+
+* configure header (menu, search box, social buttons, registration controls, language selector)
+
+* define rows, a row can receive special design and hold up to 12 panes
+
+* resize panes
+
+* manage modules (add, delete, reorder) without reloading the page
+
 Full width rows
 everything is saved at the end when then Save button is clicked - you'll be warned if leaving the page without saving
 
