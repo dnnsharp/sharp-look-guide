@@ -9,6 +9,7 @@
 * [View Mode](view_mode.md)
 * [Edit Mode](edit_mode.md)
 * [Layout Mode](layout_mode.md)
+* [Design Mode](design_mode.md)
 * [Compatibility with other modules](compatibility_with_other_modules.md)
 * [Control Panel](control_panel.md)
 * [Custom Page Settings](custom_page_settings.md)
@@ -16,5 +17,4 @@
 * [Module Management](module_management.md)
 * [Page Management](page_management.md)
 * [Themes](themes.md)
-* [Design Mode](design_mode.md)
 
