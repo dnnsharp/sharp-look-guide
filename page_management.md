@@ -25,4 +25,7 @@ Let's say you have a page with a form and some info text which you'd need to use
 
 Remove pages
 
-In order to remove a page you also need to open the Control Panel page and on Page Features section click on Delete Page button.
+In order to remove a page you also need to open the Control Panel page and on Page Features section click on Delete Page button. A confirmation message is displayed to prevent accidental page deletion.
+<br />
+<br />
+![](confirm page deletion.png)
