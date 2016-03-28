@@ -1,7 +1,7 @@
 # Installation
 
-**How to install Sharp Look**
-
+### How to install Sharp Look
+<br />
 Sharp Look can be downloaded from our download page, and since you access this page, you can also check the change log to get in touch with all the new and improved features of this module.
 <br />
 <br />
@@ -18,12 +18,10 @@ In order to install Sharp Look on your DNN website you have to follow the same s
 * Select the Sharp Look package you previously downloaded on your hard drive, then click on Open;
 
 * Click on Next and follow the installation wizard.
-<br />
-<br />
+
 That's all you have to know about installing the module. Keep in mind that we're dealing with a customization module and if you want to make sure the installation was successful, check whether the module was saved on the Skins section of the Host/Extensions page.  
 <br />
-**How to use Sharp Look**
-<br />
+### How to use Sharp Look
 <br />
 After the module has been successfully installed, you can use it as skin on the desired pages or as skin for the entire site. The steps are as follows: 
 <br />
@@ -36,15 +34,11 @@ To set the skin of a page to Sharp Look you have to access Page Settings > Advan
 <br />
 To set the skin of the site to Sharp Look you have to access Admin > Site Settings > Appearance > Site Skin and Edit Skin have to be set on Host: SharpLook, and/or you can do it from Host > Host Settings > Appearance, then proceed with the activation of the trial/license.
 <br />
-<br />
-**Adding a module and editing a Sharp Look page**
-<br />
+### Adding a module and editing a Sharp Look page
 <br />
 After you create a page with Sharp Look you have the possibility to add modules on the page either in Edit mode or in Layout mode. In Edit mode you have access to other modules' options like module settings, export, import options, and in Layout mode there is only the remove module option. By clicking on the Add module button, a panel with all the installed modules is displayed from where you can choose the ones you need to use on the page. 
 <br />
-<br />
-**Activate License/Trial**
-<br />
+### Activate License/Trial
 <br />
 When you add Sharp Look as page skin for the first time, you are prompted to enter your Invoice Number or License Key in order to activate the module. 
 <br />
