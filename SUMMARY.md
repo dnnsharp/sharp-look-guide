@@ -6,7 +6,7 @@
 * [Installation](installation.md)
 * [Add Module Screen](add_module_screen.md)
 * [Admin Controls (Design, Edit, Layout, View)](admin_controls.md)
-* View Mode
+* [View Mode](view_mode.md)
 * [Compatibility with other modules](compatibility_with_other_modules.md)
 * [Control Panel](control_panel.md)
 * [Custom Page Settings](custom_page_settings.md)
