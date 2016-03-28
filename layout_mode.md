@@ -23,7 +23,7 @@ The Layout mode shows where the modules are positioned on the page. Besides modu
 **Display Header**
 <br />
 <br />
-On the Layout Mode page, you have the ability to configure the header with all its components: the menu, search box, social buttons, registration controls, language selector. 
+On the Layout Mode page, you have the ability to configure the header with all its components: the menu, search box, social buttons, registration controls, language selector. Release 1.1 brings forth a new and improved Header section, as illustrated below.
 <br />
 <br />
 ![](header.png)
