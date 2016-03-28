@@ -1,7 +1,8 @@
 # Getting Started
 
 **How to use Sharp Look**
-
+<br />
+<br />
 To sum up, Sharp Look is a CMS framework that redefines how sites are created and managed by replacing the DNN administration controls with a touch-friendly interface. It gives you the possibility to edit the design of your web pages, besides other options like View, Edit, and Layout. 
 <br />
 <br />
@@ -23,9 +24,9 @@ Access the Pages option from menu, click on Add New Page, fill in all the requir
 Instead of a white canvas, all the existing page templates will be displayed and you'll have to choose the one you prefer. You can select the Blank option if you need to get started with a white canvas, or some other templates that come with the Sharp Look.
 <br />
 <br />
-
 ![](choose.template.png)
-
+<br />
+<br />
 Once the template is selected, you'll get redirected to the newly-created page. You can use the Admin Control bar to further customize the page.
 <br />
 <br />
