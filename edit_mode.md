@@ -2,8 +2,6 @@
 
 
 ### Summary
-<br />
-
 * optimized for content editors
 
 * shows module actions and highlights panes
@@ -20,9 +18,13 @@ On the Edit page you find the Add New Module option. After a module is added to 
 <br />
 <br />
 The module management page can be enlarged by clicking on the cogwheel icon of each module on the page. This opens a new window that reveals the actions that can be taken with regards to the module: Manage module, Settings, Export, Import, Help, Refresh, Delete, and other buttons depending on the module. You can use these options in order to manage the module, to move it to another page, to export its content and to import it on another page, and even to permanently remove it from the page.
-
+<br />
+<br />
 ![](content actions.png)
-
+<br />
+<br />
 If you would like to edit the page's width, you can override it via CSS, as the page uses the default width specified in Bootstrap for the container class.
+<br />
+<br />
 
 ![](width.png)
