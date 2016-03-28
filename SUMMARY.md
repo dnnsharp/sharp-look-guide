@@ -15,4 +15,5 @@
 * [Themes](themes.md)
 * [Design Mode](design_mode.md)
 * Edit Mode
+* Layout Mode
 
