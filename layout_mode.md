@@ -43,7 +43,11 @@ This view allows the users to quickly view and change the location of the module
 
 
 ![](rows.png)
-
+<br />
+<br />
+As of Sharp Look 1.1, drag and drop functionality is available for modules within the same pane.
+<br />
+<br />
 Beware that in any Admin Mode screen, if you don't save the changes made before you navigate to another page, a pop up will be displayed informing you that the changes you've made are unsaved and it gives you two options "Leave this Page" and "Stay on this Page". 
 
 Layout mode does not load the content of the modules added on the page, therefore in case there are errors on the modules they will not get displayed in Layout mode and as a tip, this mode is very useful when you want to access module settings or to remove them in case they are not displayed in edit mode. 
