@@ -13,7 +13,8 @@ To do this, just create a link to the same page and append the the ID of the row
 <br />
 <br />
 **How to customize the Login and Registration pages**
-
+<br />
+<br />
 In a JS file add the following code:
 <br />
 <br />
