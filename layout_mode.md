@@ -29,6 +29,12 @@ On the Layout Mode page, you have the ability to configure the header with all i
 ![](header.png)
 <br />
 <br />
+A Corner menu has also been added, which fixes HTML tags of H2 appearing as a submenu item.
+<br />
+<br />
+![](corner menu.png)
+<br />
+<br />
 **Row Sections**
 <br />
 <br />
