@@ -11,3 +11,5 @@ On the Edit page, you'll find the Add New Module option, and once selected you'l
 
 The module management page can be enlarged by clicking on the + icon from each module added on the page and displays all the module's buttons: Manage module, Settings, Export, Import, Help, Refresh, Delete and other buttons depending on the module added. You can use these options in order to manage the module, to move it to another page, to export the module's content and to import it on another page and even to permanently remove it from the page.
 
+![](module.management.png)
+
