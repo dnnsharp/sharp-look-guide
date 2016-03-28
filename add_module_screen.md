@@ -1,7 +1,7 @@
 ## Add Module Screen
 
 **Summary**
-
+<br />
 * touch-friendly
 
 * group modules by scope (regular modules, admin modules, host modules)
