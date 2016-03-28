@@ -58,6 +58,9 @@ When you add Sharp Look as page skin for the first time, you are prompted to ent
 ![](Activate Trial.png)
 <br />
 <br />
+In previous versions there was the ability to activate Sharp Look by using a keyfile. This option has been removed as of 1.1.
+<br />
+<br />
 **How to remove Sharp Look **
 <br />
 <br />
