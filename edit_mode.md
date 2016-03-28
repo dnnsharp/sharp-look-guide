@@ -15,3 +15,4 @@ The module management page can be enlarged by clicking on the + icon from each m
 
 If you would like to edit the page's width, you can override it via CSS, as the page uses the default width specified in Bootstrap for the container class.
 
+![](width.png)
