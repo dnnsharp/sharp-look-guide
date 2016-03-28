@@ -1,7 +1,7 @@
 ## Add Module Screen
 
 **Summary**
-<br />
+
 * touch-friendly
 
 * group modules by scope (regular modules, admin modules, host modules)
@@ -9,8 +9,7 @@
 * remembers recently used modules
 
 * in layout mode, add modules without reloading page
-<br />
-<br />
+
 This page is shared between Edit and Layout Mode and like all other page and settings options, it is also touch-friendly. The useful part is that when you add a new module, the page does not reload; it remembers the recently used modules as well.
 <br />
 <br />
