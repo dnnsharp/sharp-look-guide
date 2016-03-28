@@ -9,6 +9,9 @@ To sum up, Sharp Look is a CMS framework that redefines how sites are created an
 Sharp Look lets you control your portal’s styling; it changes the entire DNN interface by integrating as a skin and you can set it for a page or for the entire site. Basically, we can say that Sharp Look is an engine. The purpose of this module is to get rid of as much UI as possible - we've built a DNN light distribution using this engine on top of DNN; in other words, we've refactored DNN a little to be able to get rid of the entire UI. 
 <br />
 <br />
+Build 1.1 brings forth module actions from JavaScript.
+<br />
+<br />
 **How to work with Sharp Look**
 <br />
 <br />
