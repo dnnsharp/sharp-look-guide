@@ -1,10 +1,14 @@
 # Control Panel
 
-Sections: page, portal, host based on permissions
-touch friendly and responsive
-light forms for common tasks: create/update page, update portal settings, update host settings
-light forms have an Advanced Button to point to their DNN equivalent
-The Control Panel enable Content Editors, Administrators and Super Users to access a range of page management tools and site administrative tasks. It can be accessed from the menu of a SharpLook customized page by clicking on the first menu settings icon and a clean layout page will be displayed which is structured in several sections.
+* sections: page, portal, host based on permissions
+
+* touch-friendly and responsive
+
+* light forms for common tasks: create/update page, update portal settings, update host settings
+
+* light forms have an Advanced Button to point to their DNN equivalent
+
+The Control Panel enables Content Editors, Administrators and Super Users to access a range of page management tools and site administrative tasks. It can be accessed from the menu of a Sharp Look customized page by clicking on the first menu settings. A clean layout page is displayed, structured in several sections.
 
 ![](icon.png)
 
