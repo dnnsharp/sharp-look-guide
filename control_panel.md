@@ -28,8 +28,10 @@ The Feature Search section uses an autocomplete box that comes in handy with all
 In this section different page settings from the DNN platform are grouped and listed, so you can find: Create Page, Page Settings, Clone Page, Change Permissions, Export Page, Import Page, and Delete Page.
 <br />
 <br />
-
-Accessing the Create Page and the Page Settings option will act like a Settings Engine - you'll be redirected to the page where all the necessary options for creating or modifying a page are listed. If you want to create a page you'll be redirected to the Sharp Look form and not to the DNN one, only if you click on Advanced option you'll go the the DNN interface. On this create page form, you have the general settings like Page name, the possibility to make the page public and to include it in the menu, the location option which comes with the default After current page option and which can be changed, and the Layout Template which comes with the Host: Sharp Look default option, since you're on a page customized in Sharp Look. 
+![](page features.png)
+<br />
+<br />
+Accessing the Create Page and the Page Settings option works like a Settings engine - you are redirected to the page where all the necessary options for creating or modifying a page are listed. If you want to create a page you are redirected to the Sharp Look form and not to the DNN one, only if you click on Advanced option you'll go the the DNN interface. On this create page form, you have the general settings like Page name, the possibility to make the page public and to include it in the menu, the location option which comes with the default After current page option and which can be changed, and the Layout Template which comes with the Host: Sharp Look default option, since you're on a page customized in Sharp Look. 
 
 Another feature on the create page form is the Social section, it is strictly dependent on the Display Header and Enable Social options from the Layout page, for example, if a Twitter id is provided, then, once these options are all checked, the Twitter icon will be generated in the header on the page. On the create page form, there's a back arrow displayed on top so that you'll be able to get back on the Control Panel page. 
 
