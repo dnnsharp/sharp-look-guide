@@ -1,6 +1,4 @@
 # Admin Controls
-
-
 ### Summary
 
 * can be pinned on top or right
@@ -8,8 +6,7 @@
 * can switch modes
 
 * can open control panel
-<br />
-<br />
+
 All DNN users are familiar with the Iconbar Mode found on all pages, which has the purpose of providing a single interface where authorized users can access pages and module management tools, shortcuts to the common administration tasks, and quick links to the Admin and Host consoles. 
 <br />
 <br />
