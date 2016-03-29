@@ -25,8 +25,9 @@ The Background Color can be altered either via the color picker or by directly t
 ![](edit header.png)
 <br >
 <br />
-The Text Color can also be set, the Top and Bottom Margin alignment can be defined in pixels and the Top and Bottom Border alignment. Once the width on the border/bottom is defined, you can select the style of the border from the listed ones: solid, dashed, dotted, double, hidden and afterwards you can set a color to make them distinct from the background. 
-
-The CSS styles are used for a customized and personalized design - by using them you can edit the design per header/per page. On Page Design, the CSS and JS includes option where you can directly upload files to be integrated in the created page and last but not least, there's the More Styles option, which can also be found on each row, where you can define Less styles for the current elements, therefore, if you want to define the background color of the page you just have to type background-color: pink; or if you need to set a fixed height of a row you can type: height: 400px; or in case you need to define the margins of the rows/pages, you can type: margin-top: 10px; margin-left: 30px;. The styles set on a page are applied according to the following priority: the first priority is on the elements set on More Styles box, the second priority is on the settings from the row/page like Background color, text color, padding, border and the last priority is on the .css and .js uploaded files.
+The CSS styles are used for a customized and personalized design - by using them you can edit the design per header/per page. The "CSS and JS includes" option allows uploaded files to be integrated in the created page and last but not least, there's the More Styles option, which can also be found on each row, where you can define Less styles for the current elements. If you want to define the background color of the page you just have to type background-color: pink; or if you need to set a fixed height of a row you can type: height: 400px;. In case you need to define the margins of the rows/pages, you can type: margin-top: 10px; margin-left: 30px;. 
+<br />
+<br />
+The styles set on a page are applied according to the following priority: the first priority is on the elements set on More Styles box, the second priority is on the settings from the row/page like Background color, text color, padding, and border, and the last priority is on the .css and .js uploaded files.
 
 ![](edit.page.png)
