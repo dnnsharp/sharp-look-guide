@@ -14,13 +14,13 @@ Once a module is added in a pane, you can access its settings by going to Edit m
 <br />
 ### Ordering modules on the page
 <br />
-In order to change the position of a module on a page, either on another row or on another pane, you have to access the Layout mode and use the Move module button which gets displayed and is accessible once you've added more panes or rows on the page besides the default Content Pane option.
-
+To change the position of a module on a page, either to another row or to another pane, access the Layout mode and use the Move module button.
+<br />
+<br />
 ![](module position.png)
-
-
-Export and Import modules
-
+<br />
+### Export and Import modules
+<br />
 These two options are available per each module and can be found on the Edit page once the + icon has been clicked and enlarged. You can use the export and import options in order to use the content of a module on other pages not being forced to remake the same module from scratch on all the pages you want to add it to.  
 
 Removing module
