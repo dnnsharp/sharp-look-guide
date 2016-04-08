@@ -19,7 +19,7 @@ Search panel is displayed whenever something is typed on the page in View mode o
 ![](feature search.png)
 <br />
 <br />
-Unlike all our other modules that keep their files under \DesktopModules, the files of Sharp Look can be found under Portals\_default\Skins\SharpLook. Sharp Look has a config engine where you can upload some other .json files in order to modify/add the suggestions displayed on search, or you can modify the existing .host-settings.json.config file to extend the suggestions list. 
+Unlike all our other modules that keep their files under \DesktopModules, the files of Sharp Look can be found under Portals\_default\Skins\SharpLook. Sharp Look has a config engine where you can upload other .json files in order to modify/add the suggestions displayed on search, or you can modify the existing .host-settings.json.config file to extend the suggestions list. 
 
 You can also extend the suggestions list programmatically in custom assemblies, there's this type string class on line 5 in .host-settings.json.config file which knows to use the defined settings in order to produce a new suggestion, so you can implement your own code if you want to produce different suggestions.
 
