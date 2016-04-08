@@ -6,11 +6,12 @@ In order to create a page when Sharp Look is set as skin on the site, open the C
 <br />
 <br />
 ![](create page.png)
+<br />
+### Customize page settings
 
-Customize page settings
-
-Now that we have our page created, we can customized it by let's say adding to it a phone number - in order to do this, you have to access the Control Panel page and click on Page Settings. Enlarge the Social list and fill in the Phone Number box and if you want to customized the page with social media settings, you can add relevant ids on the other boxes - Twitter, Facebook, Linkedin or even Youtube.
-
+There are various customization options for pages, like adding Phone Number and Facebook, Twitter or LinkedIn profiles by expanding the Social pane.
+<br />
+<br />
 ![](social.png)
 
 Export/Import a page
