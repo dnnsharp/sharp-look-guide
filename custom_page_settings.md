@@ -41,7 +41,8 @@ The Settings engine allows administrators to control the content of the website/
 The conclusion is that SharpLook defies the rigid rules of DNN by providing you with this ability to create/add different page settings if you want some of them to be per portal or per host. 
 <br />
 <br />
-These settings can be used in templates Header default - you can access the custom header settings in the main.xsl file from:
-
+These settings can be used in templates Header default - you can access the custom header settings in the main.xsl file found under
+<br />
+<br />
 \Portals\_default\Skins\SharpLook\templates\headers\default, for example:
   <xsl:value-of select="/SharpLookConfig/Settings/FacebookId/Value"/>. 
