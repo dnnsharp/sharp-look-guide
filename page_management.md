@@ -13,8 +13,8 @@ There are various customization options for pages, like adding Phone Number and 
 <br />
 <br />
 ![](social.png)
-
-Export/Import a page
+<br />
+### Export/Import a page
 
 Let's say you have a page with a form and some info text which you'd need to use it as template for creating two or three similar pages but with a different title and you need to keep the same design and the same content on all pages. In this case you can use the Export/Import options to create a page template and to use it on whatever page you need. In order to do this follow the next steps:
 
