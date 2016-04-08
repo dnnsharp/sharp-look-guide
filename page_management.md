@@ -16,14 +16,21 @@ There are various customization options for pages, like adding Phone Number and 
 <br />
 ### Export/Import a page
 
-Let's say you have a page with a form and some info text which you'd need to use it as template for creating two or three similar pages but with a different title and you need to keep the same design and the same content on all pages. In this case you can use the Export/Import options to create a page template and to use it on whatever page you need. In order to do this follow the next steps:
+To export a page together with its content, follow the steps below:
 
-1. access the page you need to convert it into template;
-2. open Control Panel page and click on Export page option;
-3. select the folder where you want the template to be saved (the default Templates folder is the recommended one) set a specific name in order to recognize it when you'll search for the template, set a description for the template and check Include Content;
-4. click on Export
-5. open again the Control Panel page > click on Create page > select the template previously exported in Template drop down list
-6. or access another existing page and if you need to import the template on it, open Control Panel page > click on Import Page button and select the folder and template you want to use - beware though that you can either replace the current page or you can create a new one by using the Import option.
+* access the page you need to convert it into template;
+
+* open Control Panel page and click on Export page option;
+
+* select the folder where you want the template to be saved (the default Templates folder is the recommended one)
+ 
+* set a specific name in order to recognize it when you'll search for the template, set a description for the template and check Include Content;
+
+* click on Export
+
+open again the Control Panel page > click on Create page > select the template previously exported in Template drop down list
+
+or access another existing page and if you need to import the template on it, open Control Panel page > click on Import Page button and select the folder and template you want to use - beware though that you can either replace the current page or you can create a new one by using the Import option.
 
 Remove pages
 
