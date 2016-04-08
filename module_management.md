@@ -7,7 +7,7 @@ Modules can be added on a page with Sharp Look either in Edit mode or in Layout 
 <br />
 ###Edit a module
 <br />
-Once a module is added in a pane, you access its settings by going to Edit mode and by clicking on the gear icon and all the module's settings, including the manage module option, are displayed:
+Once a module is added in a pane, you can access its settings by going to Edit mode and clicking on the gear icon. All the module's settings, including the manage module option, are displayed:
 
 ![](module settings.png)
 
