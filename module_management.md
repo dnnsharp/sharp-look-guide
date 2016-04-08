@@ -1,6 +1,5 @@
 # Module Management
 
-
 ### Adding modules on a page
 
 Modules can be added on a page with Sharp Look either in Edit mode or in Layout mode. Layout mode is preferred when there are errors generated on the modules and they cannot be accessed directly in Edit mode. To add a module, you just have to click on the Add module button and when the Modules panel is displayed choose which module you want to display. 
