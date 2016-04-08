@@ -8,11 +8,12 @@ Modules can be added on a page with Sharp Look either in Edit mode or in Layout 
 ###Edit a module
 <br />
 Once a module is added in a pane, you can access its settings by going to Edit mode and clicking on the gear icon. All the module's settings, including the manage module option, are displayed:
-
+<br />
+<br />
 ![](module settings.png)
-
-Ordering modules on page
-
+<br />
+### Ordering modules on the page
+<br />
 In order to change the position of a module on a page, either on another row or on another pane, you have to access the Layout mode and use the Move module button which gets displayed and is accessible once you've added more panes or rows on the page besides the default Content Pane option.
 
 ![](module position.png)
