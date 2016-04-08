@@ -18,19 +18,19 @@ There are various customization options for pages, like adding Phone Number and 
 
 To export a page together with its content, follow the steps below:
 
-* access the page you need to convert it into template;
+* access the page you need to convert into template;
 
 * open Control Panel page and click on Export page option;
 
-* select the folder where you want the template to be saved (the default Templates folder is the recommended one)
+* select the folder where you want the template to be saved (the default Templates folder is the recommended one);
  
-* set a specific name in order to recognize it when you'll search for the template, set a description for the template and check Include Content;
+* set a specific name, a description and check Include Content;
 
-* click on Export
+* click on Export;
 
-open again the Control Panel page > click on Create page > select the template previously exported in Template drop down list
+* open Control Panel > click on Create page > select the template previously exported in Template drop down list;
 
-or access another existing page and if you need to import the template on it, open Control Panel page > click on Import Page button and select the folder and template you want to use - beware though that you can either replace the current page or you can create a new one by using the Import option.
+* or access another existing page and if you need to import the template on it, open Control Panel > click on Import Page and select the folder and template you want to use - beware though that you can either replace the current page or you can create a new one by using the Import option.
 
 Remove pages
 
