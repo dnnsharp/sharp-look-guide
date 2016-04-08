@@ -32,9 +32,9 @@ To export a page together with its content, follow the steps below:
 
 * or access another existing page and if you need to import the template on it, open Control Panel > click on Import Page and select the folder and template you want to use - beware though that you can either replace the current page or you can create a new one by using the Import option.
 
-Remove pages
+### Remove pages
 
-In order to remove a page you also need to open the Control Panel page and on Page Features section click on Delete Page button. A confirmation message is displayed to prevent accidental page deletion.
+In order to remove a page open the Control Panel and on tthe Page Features section click on Delete Page button. A confirmation message is displayed to prevent accidental page deletion.
 <br />
 <br />
 ![](confirm page deletion.png)
