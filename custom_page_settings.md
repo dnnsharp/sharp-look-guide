@@ -24,8 +24,9 @@
     Building Block (todo)
     
 <br />
-This Settings engine allows administrators to control the content of the website/page, it's an open engine - in Config there's a .json file in PageVars which has all the existing settings defined, for example, TwitterId, FacebookId, LinkedInId and each one of them has some settings like Title, Type etc. If you want to change the type of the field, you can for example replace the default "text" type with the "textarea" type so that you'll get a rich text editor box instead of a textbox or, you can change the default text box into a check box by setting the type to "Boolean". 
-
+The Settings engine allows administrators to control the content of the website/page. It is an open engine - in Config there's a .json file in PageVars that has all the existing settings defined (for example, TwitterId, FacebookId, LinkedInId) and each one of them has some settings like Title, Type etc. If you want to change the field type, you can replace the default "text" type with the "textarea" type so that you'll get a rich text editor box instead of a textbox, or you can change the default text box into a check box by setting the type to "Boolean". 
+<br />
+<br />
 {
 "Id": "TwitterId",
 "Title": { "key": "", "default": "Twitter ID" },
