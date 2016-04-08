@@ -1,9 +1,10 @@
 # Page Management
 
-Create page
+### Create page
 
-In order to create a page when Sharp Look is set as skin on the site, you have to open the Control Panel page by clicking on the first icon button from the Admin Controls bar and to click on Create Page icon button from Page Features. On this page you have the options to set the title, to make the page public in order to be accessed by the public, to include it in menu along with the location it will take and to set a theme or a template. 
-
+In order to create a page when Sharp Look is set as skin on the site, open the Control Panel page by clicking on the first icon button from the Admin Controls bar and click on the Create Page icon button from Page Features. On this page you have the options to set the title, make the page public, include it in menu along with the location it will take and set a theme or a template. 
+<br />
+<br />
 ![](create page.png)
 
 Customize page settings
