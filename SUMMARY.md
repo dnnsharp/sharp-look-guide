@@ -17,6 +17,5 @@
 * [Module Management](module_management.md)
 * [Page Management](page_management.md)
 * [Themes](themes.md)
-* Uninstalling
-
+* [Uninstalling](uninstalling.md)
 
