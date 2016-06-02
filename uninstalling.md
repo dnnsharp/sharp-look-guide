@@ -11,3 +11,12 @@ After you remove Sharp Look from all pages the bin pictogram becomes visible and
 ![](2016-06-02_1618.png)
 
 You can find the Sharp Look skin under the Host - Extensions, and then click on the "Themes" in order to open the drop-down with the list of skins.
+
+If you're not sure on what pages do you use the Sharp Look skin or the "bin" button does not show up, go to Host - SQL and run the following Query:
+
+```select * 
+  from tabs
+  where SkinSrc like '%sharp%'
+  or ContainerSrc like '%sharp%'```
+  
+  This will search the database for the keyword "sharp" and it will display a list with pages and portals where Sharp Look is being used.
